@@ -1,0 +1,9 @@
+{
+  "name": "femme-voice-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local, bilingual voice-and-text prototype for a hackathon challenge.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
